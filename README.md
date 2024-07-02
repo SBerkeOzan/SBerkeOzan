@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Said Berke Ozan</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h1 align="center">Merhabaa 👋, I'm Said Berke Ozan</h1>
+<h3 align="center">A passionate backend developer from Türkiye</h3>
 
 - 🔭 I’m currently working on **C++**
 
